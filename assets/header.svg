@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="220" viewBox="0 0 850 220" role="img" aria-label="Hi, I'm Daniel — full-stack developer and data science student">
+  <style>
+    .t { font-family: "Kalam", "Segoe Print", "Comic Sans MS", cursive; fill: #f5f5f5; }
+    .m { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; fill: #a3a3a3; font-size: 16px; }
+    .line { stroke: #ffffff; stroke-opacity: .08; }
+  </style>
+  <defs>
+    <clipPath id="type"><rect x="0" y="0" height="220" width="0">
+      <animate attributeName="width" values="0;640;640;0" keyTimes="0;.35;.85;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines=".4 0 .2 1;0 0 1 1;.4 0 .2 1"/>
+    </rect></clipPath>
+  </defs>
+
+  <!-- notepad paper -->
+  <rect width="850" height="220" rx="14" fill="#1f1f1f" stroke="#ffffff" stroke-opacity=".12"/>
+  <g class="line">
+    <line x1="0" y1="62" x2="850" y2="62"/><line x1="0" y1="102" x2="850" y2="102"/>
+    <line x1="0" y1="142" x2="850" y2="142"/><line x1="0" y1="182" x2="850" y2="182"/>
+  </g>
+  <line x1="64" y1="0" x2="64" y2="220" stroke="#ef4444" stroke-opacity=".45"/>
+  <g fill="#151515"><circle cx="30" cy="50" r="7"/><circle cx="30" cy="110" r="7"/><circle cx="30" cy="170" r="7"/></g>
+
+  <!-- handwritten title, "typed" in and erased on a loop -->
+  <text class="t" x="88" y="94" font-size="46" clip-path="url(#type)">Hi, I'm Daniel 👋 (aka 河馬)</text>
+
+  <g class="m">
+    <text x="88" y="134" opacity="0">&gt; full-stack developer · applied data science @ Penn State
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.9;1" begin="1s" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="88" y="172" opacity="0">&gt; building tools · playing violin · tinkering with redstone
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" begin="1.6s" dur="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- blinking caret -->
+  <rect x="600" y="196" width="10" height="3" fill="#f5f5f5">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
