@@ -23,7 +23,7 @@
   <text class="t" x="88" y="94" font-size="44" textLength="680" lengthAdjust="spacingAndGlyphs" clip-path="url(#type)">Hi, I'm Daniel 👋 (aka 河馬)</text>
 
   <g class="m">
-    <text x="88" y="134" opacity="0">&gt; full-stack developer · applied data science @ Penn State
+    <text x="88" y="134" opacity="0">&gt; full-stack developer · applied data science student
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.9;1" begin="1s" dur="8s" repeatCount="indefinite"/>
     </text>
     <text x="88" y="172" opacity="0">&gt; building tools · playing violin · tinkering with redstone
