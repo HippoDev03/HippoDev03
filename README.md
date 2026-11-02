@@ -8,7 +8,6 @@
 Full-stack developer · Applied Data Science student · from Taiwan 🇹🇼
 
 <a href="https://danielchen.me"><img src="https://img.shields.io/badge/Website-danielchen.me-1f1f1f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="https://modrinth.com/plugin/lightplus"><img src="https://img.shields.io/badge/Modrinth-LightPlus-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"></a>
 
 </div>
 
