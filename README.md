@@ -22,7 +22,7 @@
 ### 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,cpp,ts,js,java,react,nextjs,astro,tailwind,mongodb,redis,wordpress,docker,linux,proxmox,arduino,raspberrypi,ps,pr,ai&perline=11&theme=dark" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=py,r,cpp,ts,js,java,react,nextjs,astro,tailwind,mongodb,redis,wordpress,docker,linux,arduino,raspberrypi,ps,pr,ai&perline=11&theme=dark" alt="Skills">
 </p>
 
 <p align="center"><sub>🌱 Currently learning</sub><br>
