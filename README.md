@@ -29,9 +29,6 @@ Off-screen: violin & piano, swimming, badminton, golf.
 
 - 🏡 **[Hippo's Cottage](https://danielchen.me)** — my bilingual (English / 繁中), hand-drawn portfolio built with Astro + React
 - 🧰 **[ToolBox](https://tool.danielchen.me)** — a collection of useful tools for me and the community *(coming soon)*
-- 💡 **[LightPlus](https://modrinth.com/plugin/lightplus)** — a Minecraft plugin that makes light blocks usable in survival
-- 🧠 **Tetris AI** — a PyTorch DQN on a Tetris engine I wrote from scratch (paused, but it taught me a lot about RL)
-- 🏆 2nd place — AI Medical Science Hackathon, MeDA Lab @ NTU
 
 ### 🛠 Tech Stack
 
