@@ -29,14 +29,6 @@
   <img src="https://skillicons.dev/icons?i=rust,go,sklearn&theme=dark" alt="Learning">
 </p>
 
-### 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HippoDev03/HippoDev03/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HippoDev03/HippoDev03/output/snake-light.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/HippoDev03/HippoDev03/output/snake-dark.svg">
-</picture>
-
 <div align="center">
   <img src="https://count.getloli.com/get/@:Soldierp?theme=moebooru" alt="Visitor count">
 </div>
