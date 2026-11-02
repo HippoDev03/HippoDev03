@@ -30,5 +30,5 @@
 </p>
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@:Soldierp?theme=moebooru" alt="Visitor count">
+  <img src="https://danielchen.me/api/counter.svg" alt="Visitor count">
 </div>
